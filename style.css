@@ -1,0 +1,16 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+    height: 100vh;    
+}
+
+div a {
+    font-size: 32px;
+    text-decoration: none;
+}
+
+p {
+    cursor: pointer;
+}
